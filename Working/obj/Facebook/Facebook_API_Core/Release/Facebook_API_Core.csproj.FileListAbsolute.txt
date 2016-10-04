@@ -1,0 +1,12 @@
+C:\Piyush\Extra code\Facebook_API_Manager\Bin\Release\Facebook_API_Manager\Facebook_API_Core.xml
+C:\Piyush\Extra code\Facebook_API_Manager\Bin\Release\Facebook_API_Manager\Facebook_API_Core.dll
+C:\Piyush\Extra code\Facebook_API_Manager\Bin\Release\Facebook_API_Manager\Facebook_API_Core.pdb
+C:\Piyush\Extra code\Facebook_API_Manager\Working\obj\Facebook\Facebook_API_Core\Release\Facebook_API_Core.dll
+C:\Piyush\Extra code\Facebook_API_Manager\Working\obj\Facebook\Facebook_API_Core\Release\Facebook_API_Core.pdb
+E:\Extra Codes\Facebook_API_Manager\Bin\Release\Facebook_API_Manager\Facebook_API_Core.xml
+E:\Extra Codes\Facebook_API_Manager\Bin\Release\Facebook_API_Manager\Facebook_API_Core.dll
+E:\Extra Codes\Facebook_API_Manager\Bin\Release\Facebook_API_Manager\Facebook_API_Core.pdb
+E:\Extra Codes\Facebook_API_Manager\Working\obj\Facebook\Facebook_API_Core\Release\Facebook_API_Core.csprojResolveAssemblyReference.cache
+E:\Extra Codes\Facebook_API_Manager\Working\obj\Facebook\Facebook_API_Core\Release\Facebook_API_Core.dll
+E:\Extra Codes\Facebook_API_Manager\Working\obj\Facebook\Facebook_API_Core\Release\Facebook_API_Core.pdb
+C:\Piyush\Extra code\Facebook_API_Manager\Working\obj\Facebook\Facebook_API_Core\Release\Facebook_API_Core.csprojResolveAssemblyReference.cache

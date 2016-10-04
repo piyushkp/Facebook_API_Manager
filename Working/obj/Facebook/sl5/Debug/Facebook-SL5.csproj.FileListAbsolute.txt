@@ -1,0 +1,8 @@
+C:\Piyush\Extra code\facebook-csharp-sdk-master\facebook-csharp-sdk-master\Bin\Debug\sl5\Facebook.xml
+C:\Piyush\Extra code\facebook-csharp-sdk-master\facebook-csharp-sdk-master\Bin\Debug\sl5\Facebook.dll
+C:\Piyush\Extra code\facebook-csharp-sdk-master\facebook-csharp-sdk-master\Bin\Debug\sl5\Facebook.pdb
+C:\Piyush\Extra code\facebook-csharp-sdk-master\facebook-csharp-sdk-master\Bin\Debug\sl5\Facebook.dll.CodeAnalysisLog.xml
+C:\Piyush\Extra code\facebook-csharp-sdk-master\facebook-csharp-sdk-master\Bin\Debug\sl5\Facebook.dll.lastcodeanalysissucceeded
+C:\Piyush\Extra code\facebook-csharp-sdk-master\facebook-csharp-sdk-master\Working\obj\Facebook\sl5\Debug\Facebook-SL5.csprojResolveAssemblyReference.cache
+C:\Piyush\Extra code\facebook-csharp-sdk-master\facebook-csharp-sdk-master\Working\obj\Facebook\sl5\Debug\Facebook.dll
+C:\Piyush\Extra code\facebook-csharp-sdk-master\facebook-csharp-sdk-master\Working\obj\Facebook\sl5\Debug\Facebook.pdb

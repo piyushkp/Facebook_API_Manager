@@ -1,0 +1,14 @@
+C:\Piyush\Extra code\facebook-csharp-sdk-master\facebook-csharp-sdk-master\Bin\Release\net40-client\Facebook.xml
+C:\Piyush\Extra code\facebook-csharp-sdk-master\facebook-csharp-sdk-master\Bin\Release\net40-client\Facebook.dll
+C:\Piyush\Extra code\facebook-csharp-sdk-master\facebook-csharp-sdk-master\Bin\Release\net40-client\Facebook.pdb
+C:\Piyush\Extra code\facebook-csharp-sdk-master\facebook-csharp-sdk-master\Working\obj\Facebook\net40-client\Release\Facebook.dll
+C:\Piyush\Extra code\facebook-csharp-sdk-master\facebook-csharp-sdk-master\Working\obj\Facebook\net40-client\Release\Facebook.pdb
+C:\Piyush\Extra code\Facebook_Manager\Working\obj\Facebook\net40-client\Release\Facebook_API_Core.csprojResolveAssemblyReference.cache
+C:\Piyush\Extra code\Facebook_Manager\Bin\Release\net40-client\Facebook_API_Core.xml
+C:\Piyush\Extra code\Facebook_Manager\Bin\Release\net40-client\Facebook_API_Core.dll
+C:\Piyush\Extra code\Facebook_Manager\Bin\Release\net40-client\Facebook_API_Core.pdb
+C:\Piyush\Extra code\Facebook_Manager\Working\obj\Facebook\net40-client\Release\Facebook_API_Core.dll
+C:\Piyush\Extra code\Facebook_Manager\Working\obj\Facebook\net40-client\Release\Facebook_API_Core.pdb
+C:\Piyush\Extra code\Facebook_Manager\Bin\Release\Facebook_API_Manager\Facebook_API_Core.xml
+C:\Piyush\Extra code\Facebook_Manager\Bin\Release\Facebook_API_Manager\Facebook_API_Core.dll
+C:\Piyush\Extra code\Facebook_Manager\Bin\Release\Facebook_API_Manager\Facebook_API_Core.pdb

@@ -1,0 +1,5 @@
+C:\Piyush\Extra code\facebook-csharp-sdk-master\facebook-csharp-sdk-master\Bin\Release\net40-client\Facebook.xml
+C:\Piyush\Extra code\facebook-csharp-sdk-master\facebook-csharp-sdk-master\Bin\Release\net40-client\Facebook.dll
+C:\Piyush\Extra code\facebook-csharp-sdk-master\facebook-csharp-sdk-master\Bin\Release\net40-client\Facebook.pdb
+C:\Piyush\Extra code\facebook-csharp-sdk-master\facebook-csharp-sdk-master\Working\obj\Facebook\net40-client\Release\Facebook.dll
+C:\Piyush\Extra code\facebook-csharp-sdk-master\facebook-csharp-sdk-master\Working\obj\Facebook\net40-client\Release\Facebook.pdb

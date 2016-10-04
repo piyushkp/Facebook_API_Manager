@@ -1,0 +1,10 @@
+C:\Piyush\Extra code\Facebook_Manager\Source\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Piyush\Extra code\Facebook_Manager\Source\WindowsFormsApplication1\obj\Release\fPageMgmt.csproj.GenerateResource.Cache
+C:\Piyush\Extra code\Facebook_Manager\Source\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+C:\Piyush\Extra code\Facebook_Manager\Source\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb
+C:\Piyush\Extra code\Facebook_Manager\Source\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+C:\Piyush\Extra code\Facebook_Manager\Source\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+C:\Piyush\Extra code\Facebook_Manager\Source\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+C:\Piyush\Extra code\Facebook_Manager\Source\WindowsFormsApplication1\bin\Release\Facebook.dll
+C:\Piyush\Extra code\Facebook_Manager\Source\WindowsFormsApplication1\bin\Release\Facebook.pdb
+C:\Piyush\Extra code\Facebook_Manager\Source\WindowsFormsApplication1\bin\Release\Facebook.xml

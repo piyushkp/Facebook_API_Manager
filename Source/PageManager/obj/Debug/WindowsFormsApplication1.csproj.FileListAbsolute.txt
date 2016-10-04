@@ -1,0 +1,11 @@
+C:\Piyush\Extra code\facebook-csharp-sdk-master\facebook-csharp-sdk-master\Source\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Piyush\Extra code\facebook-csharp-sdk-master\facebook-csharp-sdk-master\Source\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Piyush\Extra code\facebook-csharp-sdk-master\facebook-csharp-sdk-master\Source\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Piyush\Extra code\facebook-csharp-sdk-master\facebook-csharp-sdk-master\Source\WindowsFormsApplication1\bin\Debug\Facebook.dll
+C:\Piyush\Extra code\facebook-csharp-sdk-master\facebook-csharp-sdk-master\Source\WindowsFormsApplication1\bin\Debug\Facebook.pdb
+C:\Piyush\Extra code\facebook-csharp-sdk-master\facebook-csharp-sdk-master\Source\WindowsFormsApplication1\bin\Debug\Facebook.xml
+C:\Piyush\Extra code\facebook-csharp-sdk-master\facebook-csharp-sdk-master\Source\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Piyush\Extra code\facebook-csharp-sdk-master\facebook-csharp-sdk-master\Source\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Piyush\Extra code\facebook-csharp-sdk-master\facebook-csharp-sdk-master\Source\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Piyush\Extra code\facebook-csharp-sdk-master\facebook-csharp-sdk-master\Source\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Piyush\Extra code\facebook-csharp-sdk-master\facebook-csharp-sdk-master\Source\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
